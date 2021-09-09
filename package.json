@@ -5,7 +5,9 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node src/index.js"
+    "dev": "node src/index.js",
+    "build": "vercel-build"
+
   },
   "repository": {
     "type": "git",
